@@ -1,6 +1,6 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-#excuse {
+.excusa {
     color: rgb(247, 222, 79);
     background: black;
 }
