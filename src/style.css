@@ -1,5 +1,8 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+#excuse {
+    color: rgb(247, 222, 79);
+    background: black;
 }
+
+
